@@ -1,0 +1,61 @@
+body {
+  background-color: #E4E4E4;
+  color: #5B1818;
+
+}
+footer {
+  /*background-color: black;*/
+  color: black;
+
+
+}
+
+.funcionamento {
+
+  padding-top: 35px;
+}
+
+header {
+
+  color: #5B1818;
+
+}
+header img {
+  width: 100%;
+  height: 600px;
+  margin-bottom: 40px;
+}
+h1 {
+  text-align:center;
+}
+section {
+  margin: 0 20px 40px 20px;
+
+}
+div ul li {
+  margin-bottom: 20px;
+  color: blue;
+}
+
+
+.phone {
+  background-color: black;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin-bottom: 40px;
+}
+.computador {
+  background-color:  	#5b1818;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin-bottom: 40px;
+}
+.pcgamer {
+  background-color: #5b185b;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 50px;
+
+}
